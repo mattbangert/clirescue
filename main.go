@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/GoBootcamp/clirescue/trackerapi"
+	"github.com/mattbangert/clirescue/trackerapi"
 	"github.com/codegangsta/cli"
 )
 
